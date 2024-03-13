@@ -8,7 +8,6 @@ import List from './Component/List';
 import Update from './Component/Update';
 import Gallary from './Component/Gallary';
 import Container from 'react-bootstrap/Container';
-
 function App() {
   return (
     <div>

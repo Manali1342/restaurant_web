@@ -46,8 +46,8 @@ Create()
             <MDBCardBody className='d-flex flex-column'>
 
               <div className='d-flex flex-row mt-2'>
-                
-              <h1 class="react">Melbourne</h1>
+
+              <h1 class="react">SaffronTwist</h1>
               </div>
 
               <h5 className="fw-normal my-4 pb-3" style={{letterSpacing: '1px'}}>Add Your Restaurant Here...</h5>
@@ -58,7 +58,7 @@ Create()
                 <MDBInput wrapperClass='mb-4' placeholder='Ratings' id='formControlLg' type='ratings' size="lg" onChange={(e)=>{this.setState({rating:e.target.value})}}/>
 
               <MDBBtn className="mb-4 px-5" color='dark' size='lg' onClick={()=>{this.Create()}}>Add</MDBBtn>
-             
+
 
             </MDBCardBody>
           </MDBCol>
@@ -67,7 +67,7 @@ Create()
       </MDBCard>
 
     </MDBContainer>
-     
+
     )
   }
 }
