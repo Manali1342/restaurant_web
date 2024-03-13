@@ -1,0 +1,17 @@
+.rounded-start{
+    height: 550px;
+    width: 299px;
+}
+
+.text-2xl{
+  color: black;
+}
+
+.react{
+  color: black;
+}
+
+.fw-normal{
+  font-family: 'Playball', cursive;
+  font-size: 200%;
+}

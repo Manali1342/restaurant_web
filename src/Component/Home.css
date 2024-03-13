@@ -1,0 +1,90 @@
+.DivSec{
+    background-image: url("Home1.jpg");
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 90vh;
+}
+
+.h1Tag{
+    /* color: bisque; */
+    color:black;
+    text-transform: capitalize;
+    text-shadow: 4rem;
+    text-align: center;
+    padding-top: 240px;
+    font-size: 15vh;
+    font-family: serif;
+    /* font-style: italic; */
+
+    margin-left: 4%;
+}
+
+.meals{
+    color:#030103;
+
+
+
+
+}
+
+
+
+.headings{
+  font-family: 'Great Vibes', cursive;
+  color:rgb(1, 0, 2);
+  margin-left: 30%;
+}
+
+.headings1{
+  font-family: 'Great Vibes', cursive;
+  color:black;
+  margin-left: 30%;
+}
+
+.font{
+  color: black;
+  font-family: 'Crimson Text', serif;
+  margin-left: 30%;
+}
+.font1{
+
+  color: black;
+  font-family: 'Crimson Text', serif;
+  margin-left: 30%;
+}
+
+.text-2xl{
+ -webkit-text-fill-color:black;
+  font-family: cursive;
+}
+
+.font2{
+
+  color: black;
+  font-family: 'Tangerine', cursive;
+  color: black;
+
+}
+
+.text1{
+  color: black;
+  margin-left: 4%;
+
+}
+
+.footer{
+
+  color: black;
+  background-image: url("footerImage.jpeg");
+
+}
+
+.span1{
+  margin-left: 29%;
+}
+
+/* .footer1{
+  background-image: url("footerImage.jpeg");
+  color: black;
+} */

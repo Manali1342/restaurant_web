@@ -1,0 +1,50 @@
+.UpdateBG{
+    background-image: url("update2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 90vh;
+}
+
+.textbox{
+    /* padding-right: 50%; */
+    margin-left: 25%;
+    margin-right: 25%;
+   
+}
+/* 
+.button1{
+    background-color: black;
+} */
+
+.bg-image{
+    background-image: url("Update1.jpg");
+    height: 300px;
+    
+    /* width: 700px; */
+    /* width: 100%; */
+    /* width: 1000px; */
+    /* background-repeat: no-repeat; */
+}
+
+/* .bgcolor{
+    background-color: black;
+} */
+
+/* .MDBBtn{
+    color: black;
+} */
+
+/* .fw-bold{
+    background-color: black;
+   
+} */
+
+.text-center{
+    background-color: black;
+}
+
+.fw-bold{
+    font-family: 'Tangerine', cursive;
+  color: white;
+}
+

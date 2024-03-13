@@ -1,0 +1,36 @@
+
+
+img{
+    width: 50px;
+    height: 50px;
+  }
+
+.px-8 {
+    padding-left: 2rem;
+    padding-right: 38rem;
+  }
+ .me-auto{
+  text-decoration: none;
+  justify-content: space-between;
+  /* color: aqua; */
+
+}
+ .text-3xl{
+  -webkit-text-fill-color: hotpink;
+  font-family: cursive;
+  /* padding-left: 5px;
+  justify-content: center;
+  align-items: center;
+  padding-top: 10px;; */
+}
+/* .nav{
+  display: flex;
+    align-items: center;
+    justify-content: center;
+    position: sticky;
+    top: 0;
+    cursor: pointer;
+    background-color: black;
+} */
+
+
