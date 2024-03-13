@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/restaurant_web/static/css/main.687e7d24.css",
+    "main.js": "/restaurant_web/static/js/main.63f381b4.js",
+    "static/js/787.5018281e.chunk.js": "/restaurant_web/static/js/787.5018281e.chunk.js",
+    "static/media/footerImage.jpeg": "/restaurant_web/static/media/footerImage.44d3f55a426d13a343ae.jpeg",
+    "static/media/Home1.jpg": "/restaurant_web/static/media/Home1.ebf30ed3de216b844b51.jpg",
+    "static/media/fa-solid-900.ttf": "/restaurant_web/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
+    "static/media/RestoImage.jpg": "/restaurant_web/static/media/RestoImage.bf22e89cbd68153f7b05.jpg",
+    "static/media/fa-brands-400.ttf": "/restaurant_web/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/update2.jpg": "/restaurant_web/static/media/update2.45e00d76f7b1412fdffd.jpg",
+    "static/media/fa-solid-900.woff2": "/restaurant_web/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/fa-brands-400.woff2": "/restaurant_web/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/fa-regular-400.ttf": "/restaurant_web/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/Update1.jpg": "/restaurant_web/static/media/Update1.f924ee101fccb0486de3.jpg",
+    "static/media/fa-regular-400.woff2": "/restaurant_web/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
+    "static/media/fa-v4compatibility.ttf": "/restaurant_web/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
+    "static/media/fa-v4compatibility.woff2": "/restaurant_web/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
+    "index.html": "/restaurant_web/index.html",
+    "main.687e7d24.css.map": "/restaurant_web/static/css/main.687e7d24.css.map",
+    "main.63f381b4.js.map": "/restaurant_web/static/js/main.63f381b4.js.map",
+    "787.5018281e.chunk.js.map": "/restaurant_web/static/js/787.5018281e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.687e7d24.css",
+    "static/js/main.63f381b4.js"
+  ]
+}
